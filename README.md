@@ -9,6 +9,7 @@ Clone repo in your working directory
 Build docker image:
 
 > docker build -t realtime-objectdetection .
+(cannot be ignored dot)
 
 Configure script (see bellow)
 
